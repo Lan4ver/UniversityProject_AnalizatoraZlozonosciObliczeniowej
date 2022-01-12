@@ -1,0 +1,7 @@
+The project was created according to the requirements of the university.
+
+Fro example "mp" in variables means initials of author.
+
+Also
+THere is Documentation on polish language in the folder for some of functions
+"DocumentationPL"
