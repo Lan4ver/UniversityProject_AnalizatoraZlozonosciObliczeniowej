@@ -1,4 +1,3 @@
-"mp" in variables means initials of author.
+University project made in Windows Form
 
-Also
 There is Documentation in the folder "DocumentationPL" on polish language for some of functions
